@@ -6,4 +6,5 @@ Key Notes:
 - Logic checking values from a 2D array 
   
 References:
-Original tutorial available at: https://www.youtube.com/watch?v=5VrMVSDjeso [Accessed: 3 March 2024]
+- Original tutorial available at: https://www.youtube.com/watch?v=5VrMVSDjeso [Accessed: 3 March 2024]
+- Screenshots available at: 
