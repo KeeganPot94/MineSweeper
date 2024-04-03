@@ -7,4 +7,4 @@ Key Notes:
   
 References:
 - Original tutorial available at: https://www.youtube.com/watch?v=5VrMVSDjeso [Accessed: 3 March 2024]
-- Screenshots available at: 
+- Screenshots available at: https://github.com/KeeganPot94/MineSweeper/tree/main/screenshots 
